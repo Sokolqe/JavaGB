@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class HW1 {
     public static void main(String[] args) {
         System.out.println("isSumBetween:");
         System.out.println(isSumBetween10And20(5, 15)); // true
